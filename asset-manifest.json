@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/jgogol-test-site/static/css/main.4abfa148.chunk.css",
+    "main.js": "/jgogol-test-site/static/js/main.4d4fcb63.chunk.js",
+    "main.js.map": "/jgogol-test-site/static/js/main.4d4fcb63.chunk.js.map",
+    "runtime-main.js": "/jgogol-test-site/static/js/runtime-main.78a62d37.js",
+    "runtime-main.js.map": "/jgogol-test-site/static/js/runtime-main.78a62d37.js.map",
+    "static/css/2.de424728.chunk.css": "/jgogol-test-site/static/css/2.de424728.chunk.css",
+    "static/js/2.ddaecc6c.chunk.js": "/jgogol-test-site/static/js/2.ddaecc6c.chunk.js",
+    "static/js/2.ddaecc6c.chunk.js.map": "/jgogol-test-site/static/js/2.ddaecc6c.chunk.js.map",
+    "index.html": "/jgogol-test-site/index.html",
+    "precache-manifest.121790e89bc16438bbc396ea6a25ed0a.js": "/jgogol-test-site/precache-manifest.121790e89bc16438bbc396ea6a25ed0a.js",
+    "service-worker.js": "/jgogol-test-site/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/jgogol-test-site/static/css/2.de424728.chunk.css.map",
+    "static/css/main.4abfa148.chunk.css.map": "/jgogol-test-site/static/css/main.4abfa148.chunk.css.map",
+    "static/js/2.ddaecc6c.chunk.js.LICENSE.txt": "/jgogol-test-site/static/js/2.ddaecc6c.chunk.js.LICENSE.txt",
+    "static/media/jg1.jpg": "/jgogol-test-site/static/media/jg1.ba062b30.jpg",
+    "static/media/jg2.jpg": "/jgogol-test-site/static/media/jg2.a1507589.jpg",
+    "static/media/jg3.jpg": "/jgogol-test-site/static/media/jg3.74528fe8.jpg",
+    "static/media/jg4.jpg": "/jgogol-test-site/static/media/jg4.317381ce.jpg",
+    "static/media/logo.svg": "/jgogol-test-site/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78a62d37.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.ddaecc6c.chunk.js",
+    "static/css/main.4abfa148.chunk.css",
+    "static/js/main.4d4fcb63.chunk.js"
+  ]
+}
